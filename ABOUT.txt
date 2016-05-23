@@ -1,1 +1,3 @@
+El presente script fue desarrollado con el ánimo de poder generar codigos qr para cada elemento de un listado de urls.
+
 El script permite crear los códigos qr de un listado de páginas dadas en un archivo cvs que tiene campos de nombre y enlace.
