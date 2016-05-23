@@ -1,0 +1,1 @@
+El script permite crear los códigos qr de un listado de páginas dadas en un archivo cvs que tiene campos de nombre y enlace.
